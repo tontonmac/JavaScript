@@ -10,4 +10,5 @@ Project-2:
 troubleshooting using console.log
 
 Project-3:
-identifying variables
+identifying variables,
+properties
