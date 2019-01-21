@@ -12,3 +12,7 @@ troubleshooting using console.log
 Project-3:
 identifying variables,
 properties
+
+Project-4:
+if-else statement
+boolean
