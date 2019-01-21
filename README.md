@@ -18,3 +18,8 @@ if-else statement
 boolean
 comments
 logical operators
+
+Project-5 
+Functions
+Functions return value
+function with parameters
