@@ -16,3 +16,5 @@ properties
 Project-4:
 if-else statement
 boolean
+comments
+logical operators
