@@ -22,4 +22,5 @@ logical operators,
 Project-5 
 Functions,
 Functions return value,
-function with parameters,
+Function with parameters,
+Practice
