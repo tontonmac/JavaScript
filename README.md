@@ -24,3 +24,8 @@ Functions,
 Functions return value,
 Function with parameters,
 Practice
+
+Project-6
+while loop
+do while loop
+for loop
