@@ -26,6 +26,7 @@ Function with parameters,
 Practice
 
 Project-6
-while loop
-do while loop
-for loop
+while loop,
+do while loop,
+for loop,
+dry principle
