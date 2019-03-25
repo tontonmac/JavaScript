@@ -1,7 +1,4 @@
 var html = '';
-var red;
-var green;
-var blue;
 var rgbColor;
 
 function randomRGB() {
@@ -21,10 +18,7 @@ function print(message) {
 }
 
 for (i = 0; i < 10; i += 1) {
-  red = randomRGB();
-  green = randomRGB();
-  blue = randomRGB();
-  rgbColor = 'rgb(' + red + ',' + green + ',' + blue + ')';
+  rgbColor = randomColor();
   html += '<div style="background-color:' + rgbColor + '"></div>';
 }
 print(html);
