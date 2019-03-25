@@ -159,12 +159,11 @@ you can do that by typing ctrl + C.
 // // will be a random length.
 // print('5th Loop:');
 // text = '';
-// i = Math.floor(Math.random() * 9);
+// i = Math.floor(Math.random() * 10);
 // // Write 5th loop here:
 // while(i !== 8) {
-//   text += i + ' '; 
-//   i = Math.floor(Math.random() * 9);
-//   text += i;
+//   i = Math.floor(Math.random() * 10);
+//   text += i + ' ';
 // }
 
 // print(text); // Should print something like `4 7 2 9 8 `, or `9 0 8 ` or `8 `.
@@ -253,12 +252,11 @@ you can do that by typing ctrl + C.
 // // will be a random length.
 // print('5th Loop:');
 // text = '';
-// i = Math.floor(Math.random() * 9);
+// i = Math.floor(Math.random() * 10);
 // // Write 5th loop here:
 // do {
+//   i = Math.floor(Math.random() * 10);
 //   text += i + ' ';
-//   i = Math.floor(Math.random() * 9);
-//   text += i;
 // } while(i !== 8);
 
 // print(text); // Should print something like `4 7 2 9 8 `, or `9 0 8 ` or `8 `.
