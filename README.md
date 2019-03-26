@@ -30,3 +30,6 @@ while loop,
 do while loop,
 for loop,
 dry principle
+
+Project-7 
+array,
