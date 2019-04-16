@@ -32,4 +32,7 @@ for loop,
 dry principle
 
 Project-7 
-array,
+array, length,
+pop, push, 
+unshift, shift,
+join, concat, indexOf
