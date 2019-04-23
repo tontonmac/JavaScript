@@ -35,4 +35,5 @@ Project-7
 array, length,
 pop, push, 
 unshift, shift,
-join, concat, indexOf
+join, concat, indexOf,
+object, for-in loop, JSON
