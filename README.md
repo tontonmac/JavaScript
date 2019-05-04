@@ -39,4 +39,4 @@ join, concat, indexOf,
 object, for-in loop, JSON
 
 Project-8
-DOM (Document Object Model),
+DOM (Document Object Model), selectors, Element.textContent, Element.innerHTML, Element.attribute, Element.className, Element.style, document.createElement(), Node.appendChild(), Node.removeChild(childElement),
