@@ -1,9 +1,10 @@
 # JavaScript
-JavaScript Basics 
+
+JavaScript Basics
 
 Project-1:
-alert() 
-document.write() 
+alert()
+document.write()
 console.log
 
 Project-2:
@@ -19,7 +20,7 @@ boolean,
 comments,
 logical operators,
 
-Project-5 
+Project-5
 Functions,
 Functions return value,
 Function with parameters,
@@ -31,12 +32,12 @@ do while loop,
 for loop,
 dry principle
 
-Project-7 
+Project-7
 array, length,
-pop, push, 
+pop, push,
 unshift, shift,
 join, concat, indexOf,
 object, for-in loop, JSON
 
 Project-8
-DOM (Document Object Model), selectors, Element.textContent, Element.innerHTML, Element.attribute, Element.className, Element.style, document.createElement(), Node.appendChild(), Node.removeChild(childElement),
+DOM (Document Object Model), selectors, Element.textContent, Element.innerHTML, Element.attribute, Element.className, Element.style, document.createElement(), Node.appendChild(), Node.removeChild(childElement), addEventListener(), Event Bubling, Delegation, Traversal, parentNode(), previousElementSibling, Node.insertBefore(), nextElementSibling, parentNode.children, ParentNode.firstElementChild, ParentNode.lastElementChild,
